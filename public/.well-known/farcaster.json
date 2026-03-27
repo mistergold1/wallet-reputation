@@ -1,0 +1,10 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Wallet Reputation",
+    "subtitle": "Your onchain profile",
+    "description": "Track your onchain activity score",
+    "homeUrl": "https://YOUR_URL",
+    "tags": ["wallet", "reputation", "base"]
+  }
+}
